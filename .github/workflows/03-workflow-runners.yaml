@@ -20,5 +20,5 @@ jobs:
         steps:
             - name: show OS
               run: |
-                echo "This job is running on MacOS runner"
+                eho "This job is running on MacOS runner"
                 sw_vers  
