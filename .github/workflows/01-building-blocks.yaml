@@ -12,7 +12,7 @@ jobs:
         steps:
             - name: Failed step
               run: |
-                  eho "i will fail"
+                  echo "i will fail"
                   exit 0
             - name: Goodbye!
               run: echo "Goodbye!" 
