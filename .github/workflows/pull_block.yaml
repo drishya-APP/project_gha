@@ -1,4 +1,4 @@
-name: repo-events
+name: repo-eve
 on: 
     push:
     pull_request :
