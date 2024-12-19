@@ -8,4 +8,5 @@ jobs :
               uses: actions/setup-node@v4
             - run: |
                     echo $GITHUB_SHA
+                    echo $GITHUB_SHA
                     echo $GITHUB_REF
