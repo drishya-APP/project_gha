@@ -1,4 +1,4 @@
-name: reposiotor
+name: reposiotors
 on: 
     push:
     pull_request :
